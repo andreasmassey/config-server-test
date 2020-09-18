@@ -1,0 +1,7 @@
+appsettings: 
+ District: 001
+ bankAccountType: "-1001"
+ fundingAccountType: "-3001"
+ CentralKey: "x-api-key"
+ autoActivateCard: true
+ BerkeleyProgramId: 76
